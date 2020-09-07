@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/demo-appp/static/css/main.5f361e03.chunk.css",
-    "main.js": "/demo-appp/static/js/main.9988c6c8.chunk.js",
-    "main.js.map": "/demo-appp/static/js/main.9988c6c8.chunk.js.map",
+    "main.js": "/demo-appp/static/js/main.9810fea0.chunk.js",
+    "main.js.map": "/demo-appp/static/js/main.9810fea0.chunk.js.map",
     "runtime-main.js": "/demo-appp/static/js/runtime-main.2b2b660d.js",
     "runtime-main.js.map": "/demo-appp/static/js/runtime-main.2b2b660d.js.map",
     "static/js/2.4250e7d6.chunk.js": "/demo-appp/static/js/2.4250e7d6.chunk.js",
     "static/js/2.4250e7d6.chunk.js.map": "/demo-appp/static/js/2.4250e7d6.chunk.js.map",
     "index.html": "/demo-appp/index.html",
-    "precache-manifest.a4328b215d83dfaa30c72903ec8bed5c.js": "/demo-appp/precache-manifest.a4328b215d83dfaa30c72903ec8bed5c.js",
+    "precache-manifest.818ea4957e65a932b26b29b43b2b91f5.js": "/demo-appp/precache-manifest.818ea4957e65a932b26b29b43b2b91f5.js",
     "service-worker.js": "/demo-appp/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/demo-appp/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.4250e7d6.chunk.js.LICENSE.txt": "/demo-appp/static/js/2.4250e7d6.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.2b2b660d.js",
     "static/js/2.4250e7d6.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.9988c6c8.chunk.js"
+    "static/js/main.9810fea0.chunk.js"
   ]
 }
